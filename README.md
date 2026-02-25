@@ -1,4 +1,4 @@
-<img width="770" height="670" alt="Screenshot 2026-02-25 at 19 11 03" src="https://github.com/user-attachments/assets/ddfa7c39-8d1e-45c3-8a8a-9efa2d19e758" />🎬 Netflix Clone - Landing & Login Page
+🎬 Netflix Clone - Landing & Login Page
 Bu proje, popüler yayın platformu Netflix'in ana sayfa ve giriş yapma (login) ekranlarının modern web teknolojileri kullanılarak yapılmış bir klonudur. Proje, özellikle responsive (duyarlı) tasarım ve Bootstrap bileşenlerinin kullanımına odaklanılarak geliştirilmiştir.
 
 🚀 Özellikler
